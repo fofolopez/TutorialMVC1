@@ -22,7 +22,7 @@ namespace MVCMusicStore.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contacto.";
 
             return View();
         }
